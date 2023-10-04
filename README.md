@@ -1,11 +1,6 @@
-## My Project
+## Unlocking Data Insights from Residential CPEs -- Analytics Blog Post
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository is an accompaniment to a blog post published on the [Official AWS Blog](https://aws.amazon.com/blogs/).
 
 ## Security
 
